@@ -1,0 +1,22 @@
+#
+# Change various messages sent by the plugin
+#
+
+Command_No_Permission:
+  Value: "&8[&c&l!&8]&c You cannot use this command!"
+Command_On_Cooldown:
+  Type: chat
+  Value: "&8[&c&l!&8]&c You must wait %cooldown% before using this command again!"
+FreeCam_Start:
+  Type: chat
+  Value: "&8[&d&l!&8]&d You are now in FreeCam!"
+FreeCam_Stop:
+  Type: chat
+  Value: "&8[&d&l!&8]&d You are no longer in FreeCam!"
+FreeCam_Force_Stop:
+  Type: chat
+  Value: "&8[&d&l!&8]&d You were forced out of FreeCam!"
+Out_Of_Bounds:
+  Type: title
+  Value: "&c&lOut of Bounds!|&4Go Back"
+

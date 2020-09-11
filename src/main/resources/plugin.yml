@@ -1,0 +1,6 @@
+name: ${project.name}
+version: ${project.version}
+main: ${main.class}
+author: WilkoS_
+api-version: 1.16
+depend: [Citizens]
